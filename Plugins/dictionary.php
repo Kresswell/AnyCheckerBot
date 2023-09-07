@@ -33,7 +33,7 @@ $example = $rresp[0]['meaning']['noun'][1]['example'];
 if($definition){
     bot('sendmessage',[
 	'chat_id'=>$chat_id,
-	'text'=>"<b>Search Results extracted from @IndianBots Database for the Word:- </b><code>$wordcap</code>
+	'text'=>"<b>Search Results extracted from @InfinityHack3rsKE Database for the Word:- </b><code>$wordcap</code>
 
 
 <b><ins>Definition</ins>:-</b> <code>$definition</code>
