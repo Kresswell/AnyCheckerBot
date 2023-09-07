@@ -7,8 +7,8 @@
         "Bot",
         "Modular"
     ],
-    "website": "https://telegram.me/AnyCheckerBot",
-    "repository": "https://github.com/IndianBots/AnyCheckerBot",
+    "website": "https://www.infinityhackers.xyz",
+    "repository": "https://github.com/Kresswell/AnyCheckerBot",
     "success_url": "https://telegram.me/IndianBots",
     "env": {
         "BOT_TOKEN": {
@@ -30,14 +30,14 @@
         },
         "TIMEZONE": {
             "description": "Your Timezone for Logging Time",
-            "value": "Asia/Kolkata",
+            "value": "Africa/Nairobi",
             "required": false
         }
     },
     "formation": {
         "web": {
             "quantity": 1,
-            "size": "free"
+            "size": "basic"
         }
     },
     "image": "heroku/php"
